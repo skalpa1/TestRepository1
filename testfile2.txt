@@ -1,3 +1,7 @@
 This is atest file 2
 Hello Added by testgit2
+
 Added second time ***** by testgit1
+
+Added second time by testgit2
+
